@@ -85,12 +85,14 @@ nav ul {
 
 .contactImage {
     display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
     }
 
 #closeModal {
-   text-align: end;
-    margin-top: 1px;
-}
+    position: absolute;
+   }
 
 .heroImg {
         max-width: 98%;

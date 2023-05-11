@@ -5,13 +5,14 @@ console.log("your_index.js file is loaded correctly!");
 
 
 $(document).ready(function(){
-$("#closeModal").click(function(){
-    $(".contactImage").hide();
-    console.log("hidden");
-  })
-  
+ 
   $("#contactLink").click(function(){
     $(".contactImage").show();
     console.log("display");
   });
+
+  $("#closeModal").click(function(){
+    $(".contactImage").hide();
+    console.log("hidden");
+  })
 });

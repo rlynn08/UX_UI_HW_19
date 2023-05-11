@@ -83,6 +83,12 @@ nav ul {
     text-decoration: none;
 }
 
+.contactImage img {
+    display: block;
+    margin: 0 auto;
+
+}
+
 .heroImg {
         max-width: 98%;
         margin-left: auto;

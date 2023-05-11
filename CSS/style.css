@@ -83,10 +83,13 @@ nav ul {
     text-decoration: none;
 }
 
-.contactImage img {
+.contactImage {
     display: block;
-    margin: 0 auto;
+    }
 
+#closeModal {
+   text-align: end;
+    margin-top: 1px;
 }
 
 .heroImg {

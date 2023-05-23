@@ -228,14 +228,14 @@ h4 {
                
               }    
  
-#footer {
+.footer {
     text-align: center;
     bottom: 0;
    
 }
 
 
-#footer {
+.footer {
     background-color: #C399E3;
     position: absolute;
     height: 100px;
